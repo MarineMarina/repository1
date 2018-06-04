@@ -1,0 +1,30 @@
+﻿body{ margin: auto;
+text-align: center;
+ background-image: url(http://hameleons.com/uploads/posts/2011-01/1296347694_1cvghkr59py4mrb.jpeg);}
+
+#block1{wight: 100%;
+height: 200px;
+ border: 20px double yellow ;
+margin-bottom: 17px;
+font-family: Arial Black;
+text-align: center;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnBGq49ViQOkamHuzC081_wEXchw10DuoUbwuwvIZhq8G-Y3h);
+}
+#block2{wight: 200px;
+height: 80px;
+  border: 20px double grey ;
+      background-color: pink;
+float: left;
+padding: 100px;
+margin-right: 10px;
+}
+#block3{  width: 700px ;
+               height: 700px;
+              background-color: pink; 
+             float: left; 
+  
+}
+#block4{ 
+ clear: both;
+  background-color: yellow;
+}
